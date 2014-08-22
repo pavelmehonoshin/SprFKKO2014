@@ -1,4 +1,4 @@
-package ru.komeco.ecolite;
+package ru.komeco.sprfkko2014;
 
 
 import android.app.Activity;
